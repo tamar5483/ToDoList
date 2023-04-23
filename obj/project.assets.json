@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ToDoList-main\\ToDpAPI.csproj",
+      "projectUniqueName": "D:\\Users\\User\\Desktop\\‏‏תיקיה חדשה\\‏‏ToDpAPI - עותק\\ToDpAPI.csproj",
       "projectName": "ToDpAPI",
-      "projectPath": "C:\\ToDoList-main\\ToDpAPI.csproj",
+      "projectPath": "D:\\Users\\User\\Desktop\\‏‏תיקיה חדשה\\‏‏ToDpAPI - עותק\\ToDpAPI.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\ToDoList-main\\obj\\",
+      "outputPath": "D:\\Users\\User\\Desktop\\‏‏תיקיה חדשה\\‏‏ToDpAPI - עותק\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
