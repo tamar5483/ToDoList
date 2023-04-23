@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection.Metadata.Ecma335;
 using ToDpAPI;
 
 var  MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
@@ -20,11 +21,13 @@ var app = builder.Build();
 
 app.UseCors(MyAllowSpecificOrigins);
 
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment())
+//{
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
+
+app.MapGet("/",()=> { return "it works!"})
 
 var group=app.MapGroup("/items");
 
