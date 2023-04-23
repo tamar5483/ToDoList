@@ -1,0 +1,126 @@
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\appsettings.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\ToDpAPI.exe
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\ToDpAPI.deps.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\ToDpAPI.runtimeconfig.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\ToDpAPI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\ToDpAPI.pdb
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Humanizer.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\MySqlConnector.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.AssemblyInfo.cs
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\staticwebassets\msbuild.ToDpAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDpAPI.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDpAPI.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDpAPI.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\scopedcss\bundle\ToDpAPI.styles.css
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.csproj.CopyComplete
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\refint\ToDpAPI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.pdb
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ToDpAPI.genruntimeconfig.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\ToDpAPI\obj\Debug\net7.0\ref\ToDpAPI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\appsettings.Development.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\appsettings.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\ToDpAPI.exe
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\ToDpAPI.deps.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\ToDpAPI.runtimeconfig.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\ToDpAPI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\ToDpAPI.pdb
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Humanizer.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\MySqlConnector.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\bin\Debug\net7.0\System.CodeDom.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.AssemblyInfo.cs
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\staticwebassets\msbuild.ToDpAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDpAPI.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDpAPI.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDpAPI.props
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\staticwebassets.build.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\staticwebassets.development.json
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\scopedcss\bundle\ToDpAPI.styles.css
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.csproj.CopyComplete
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\refint\ToDpAPI.dll
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.pdb
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ToDpAPI.genruntimeconfig.cache
+D:\Users\User\Desktop\‏‏תיקיה חדשה\‏‏ToDpAPI - עותק\obj\Debug\net7.0\ref\ToDpAPI.dll
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.csproj.AssemblyReference.cache
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.AssemblyInfoInputs.cache
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.AssemblyInfo.cs
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.csproj.CoreCompileInputs.cache
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.dll
+C:\ToDoList-main\obj\Debug\net7.0\refint\ToDpAPI.dll
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.pdb
+C:\ToDoList-main\bin\Debug\net7.0\appsettings.Development.json
+C:\ToDoList-main\bin\Debug\net7.0\appsettings.json
+C:\ToDoList-main\bin\Debug\net7.0\ToDpAPI.exe
+C:\ToDoList-main\bin\Debug\net7.0\ToDpAPI.deps.json
+C:\ToDoList-main\bin\Debug\net7.0\ToDpAPI.runtimeconfig.json
+C:\ToDoList-main\bin\Debug\net7.0\ToDpAPI.dll
+C:\ToDoList-main\bin\Debug\net7.0\ToDpAPI.pdb
+C:\ToDoList-main\bin\Debug\net7.0\Humanizer.dll
+C:\ToDoList-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\ToDoList-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ToDoList-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ToDoList-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ToDoList-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\ToDoList-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\ToDoList-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\ToDoList-main\bin\Debug\net7.0\MySqlConnector.dll
+C:\ToDoList-main\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\ToDoList-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ToDoList-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ToDoList-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ToDoList-main\bin\Debug\net7.0\System.CodeDom.dll
+C:\ToDoList-main\obj\Debug\net7.0\staticwebassets\msbuild.ToDpAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ToDoList-main\obj\Debug\net7.0\staticwebassets\msbuild.build.ToDpAPI.props
+C:\ToDoList-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ToDpAPI.props
+C:\ToDoList-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ToDpAPI.props
+C:\ToDoList-main\obj\Debug\net7.0\staticwebassets.pack.json
+C:\ToDoList-main\obj\Debug\net7.0\staticwebassets.build.json
+C:\ToDoList-main\obj\Debug\net7.0\staticwebassets.development.json
+C:\ToDoList-main\obj\Debug\net7.0\scopedcss\bundle\ToDpAPI.styles.css
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.csproj.CopyComplete
+C:\ToDoList-main\obj\Debug\net7.0\ToDpAPI.genruntimeconfig.cache
+C:\ToDoList-main\obj\Debug\net7.0\ref\ToDpAPI.dll
